@@ -1,0 +1,4 @@
+created a file3_r3 named file in folder "repo3_fold1".
+checking whether it pushed to main file of repository 3 by giving command
+"git push -u origin main".
+Here i created folder in the local storage and directly added to vs code. 
